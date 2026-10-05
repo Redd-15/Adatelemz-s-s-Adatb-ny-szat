@@ -119,4 +119,4 @@ S117      ; Computer Science      ;         6.7;       88.4; 3.15             ; 
 S118      ; Computer Science      ;        14.3;       83.6; 3.03             ;                     9;       75.6; Yes
 S119      ; Computer Science      ;         9.5;       70.4; 3.18             ;                     5;       57.6; Yes
 S120      ; Business Informatics  ;         4.5;       79.1; 2.78             ;                     8;       54.5; Yes
-S033      ; Computer Science      ;        11.4;       82.0; 2.21             ;                     6;       34.0; No
+S033_2    ; Computer Science      ;        11.4;       82.0; 2.21             ;                     6;       34.0; No
